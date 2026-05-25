@@ -1,4 +1,4 @@
-baseURL: "http://hugo-quickstart-template.netlify.com"
+baseURL: "https://dwparkinson.com"
 languages:
   en:
     label: English
