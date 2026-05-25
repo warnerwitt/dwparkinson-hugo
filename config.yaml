@@ -1,4 +1,21 @@
 baseURL: "http://hugo-quickstart-template.netlify.com"
-languageCode: "en-us"
-title: "Netlify + Hugo Quickstart"
-theme: "netlify-basic"
+languages:
+  en:
+    label: English
+    locale: en-US
+title: "Denise White Parkinson"
+theme: "PaperMod"
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Posts"
+      url: "/posts/"
+      weight: 3
+    - name: "Contact"
+      url: "/contact/"
+      weight: 4
