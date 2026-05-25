@@ -5,6 +5,11 @@ languages:
     locale: en-US
 title: "Denise White Parkinson"
 theme: "PaperMod"
+params:
+  homeInfoParams:
+    Title: "Daughter of the White River"
+    Content: The once-thriving houseboat communities along Arkansas’ White River are long gone, and few remember the sensational murder story that set local darling Helen Spence on a tragic path. In 1931, Spence shocked Arkansas when she avenged her father’s murder in a DeWitt courtroom. The state soon discovered that no prison could hold her. For the first time, prison records are unveiled to provide an essential portrait. Join author Denise Parkinson for an intimate look at a Depression-era tragedy. The legend of Helen Spence refuses to be forgotten—despite her unmarked grave.
+
 menu:
   main:
     - name: "Home"
